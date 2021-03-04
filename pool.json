@@ -2,7 +2,8 @@
     "default_via": "00000000-0000-0000-0000-000000000000",
     "name": "oddball pool",
     "pools_included": [
-        "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+        "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
+        "900f0200-a33a-41cb-9fe5-59a1ae61a109"
     ],
     "type": "pool",
     "uuid": "24dd0c49-cd61-4af0-a1a8-a1ff29db94f3"
